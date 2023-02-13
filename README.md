@@ -1,7 +1,7 @@
 # Supermarket Sales Analysis Case Study
 
-<img src=visuals/supermarket_sales01.png alt="supermarket sales">
-<img src=visuals/supermarket_sales02.png alt="supermarket sales">
+![supermarket_sales01.png](visuals/supermarket_sales01.png)
+![supermarket_sales02.png](visuals/supermarket_sales02.png)
 
 ## Goal
 
