@@ -17,3 +17,19 @@ The dataset I used is available on <a href="https://www.kaggle.com/datasets/brav
     <li>How do they differ among different states and cities?</li>
     <li>Do discounts help the store make more profit or only make customers happy?</li>
 </ul>
+
+## Overview
+
+The variables of interest are profit, sales, discount, quantity, and location. Here is a quick summary:
+
+<code>
+    summary(select_if(dt, is.numeric)) 
+      
+Sales                Quantity        Discount           Profit           
+Min.   :    0.444    Min.   : 1.00    Min.   :0.0000    Min.   :-6599.978    
+1st Qu.:   17.280    1st Qu.: 2.00    1st Qu.:0.0000    1st Qu.:    1.729    
+Median :   54.490    Median : 3.00    Median :0.2000    Median :    8.666    
+Mean   :  229.858    Mean   : 3.79    Mean   :0.1562    Mean   :   28.657    
+3rd Qu.:  209.940    3rd Qu.: 5.00    3rd Qu.:0.2000    3rd Qu.:   29.364    
+Max.   :22638.480    Max.   :14.00    Max.   :0.8000    Max.   : 8399.976 
+</code>
