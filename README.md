@@ -53,3 +53,5 @@ Let's see how the store makes profit, i.e., which product categories contribute 
 If the selling price of a product is higher than the average cost of production for a certain quantity, then the store should earn profits, provided the entire quantity produced is sold. If not, it can incur loss
 
 In this store’s case, which is it - less quantity sold or selling price presumably less than avg. production cost? Let's take a closer look at products which caused loss - tables, bookcases, supplies.
+
+![quantity_sales_profit.png](assets/images/quantity_sales_profit.png)
