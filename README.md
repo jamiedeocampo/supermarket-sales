@@ -32,8 +32,24 @@ Mean   :  229.858    Mean   : 3.79    Mean   :0.1562    Mean   :   28.657
 Max.   :22638.480    Max.   :14.00    Max.   :0.8000    Max.   : 8399.976 </code>
 
 <ul>
-   <li> The store makes $230 average sales of  with an average of $28 profit. </li>
+  <li> The store makes $230 average sales of  with an average of $28 profit. </li>
   <li> Minimum 1 product is bought from the store per visit and it can go as high as 14 with an average of 4 products. </li>
-   <li> The store has offered an average of 16% discount on its products with the highest being 80%. </li>
+  <li> The store has offered an average of 16% discount on its products with the highest being 80%. </li>
   <li> While the highest profit is $8,400, the store also suffered losses as sharp as $6,600 which are likely from the products on hefty discounts. </li>
 </ul>
+
+## Part I: Profit / Loss by Category
+
+Let's see how the store makes profit, i.e., which product categories contribute to its profit and / or loss.
+
+![profits_by_category.png](assets/images/profits_by_category.png)
+
+
+ <ul>
+  <li> Chairs, paper, and copiers in categories furniture, office supplies, and technology, respectively, have made the maximum profits. </li>
+  <li> Tables, bookcases from furniture category and supplies from office supplies category account for the store's overall loss. </li>
+ </ul> 
+
+If the selling price of a product is higher than the average cost of production for a certain quantity, then the store should earn profits, provided the entire quantity produced is sold. If not, it can incur loss
+
+In this store’s case, which is it - less quantity sold or selling price presumably less than avg. production cost? Let's take a closer look at products which caused loss - tables, bookcases, supplies.
