@@ -1,7 +1,7 @@
 # Supermarket Sales Analysis Case Study
 
-![supermarket_sales01.png](visuals/supermarket_sales01.png)
-![supermarket_sales02.png](visuals/supermarket_sales02.png)
+![supermarket_sales01.png](visuals/supermarket_sales01.PNG)
+![supermarket_sales02.png](visuals/supermarket_sales02.PNG)
 
 ## Goal
 
