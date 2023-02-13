@@ -22,8 +22,8 @@ The dataset I used is available on <a href="https://www.kaggle.com/datasets/brav
 
 The variables of interest are profit, sales, discount, quantity, and location. Here is a quick summary:
 
-<code>    summary(select_if(dt, is.numeric)) 
-      
+<code>
+summary(select_if(dt, is.numeric))   
 Sales                Quantity        Discount           Profit           
 Min.   :    0.444    Min.   : 1.00    Min.   :0.0000    Min.   :-6599.978    
 1st Qu.:   17.280    1st Qu.: 2.00    1st Qu.:0.0000    1st Qu.:    1.729    
