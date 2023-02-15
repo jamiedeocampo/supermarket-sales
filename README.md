@@ -60,3 +60,10 @@ In this store’s case, which is it - less quantity sold or selling price presum
   <li> The quantity of bookcases sold is the lowest followed by tables, in the furniture category. The same follows for supplies in office supplies category. </li>
   <li> While the total no. of units produced is not given in the dataset, the quantity sold for all the three subcategories is less than its category average. It is possible that the entire quantity produced was not sold. </li>
  </ul>
+
+## Part II: Profit / Loss by Location
+
+Let's see which region, states, and cities generate more sales and profit and which cities contribute to loss. 
+
+Region
+
