@@ -55,3 +55,8 @@ If the selling price of a product is higher than the average cost of production 
 In this store’s case, which is it - less quantity sold or selling price presumably less than avg. production cost? Let's take a closer look at products which caused loss - tables, bookcases, supplies.
 
 ![quantity_sales_profit.png](assets/images/quantity_sales_profit.png)
+
+ <ul>
+  <li> The quantity of bookcases sold is the lowest followed by tables, in the furniture category. The same follows for supplies in office supplies category. </li>
+  <li> While the total no. of units produced is not given in the dataset, the quantity sold for all the three subcategories is less than its category average.  It is possible that the entire quantity produced was not sold. </li>
+
