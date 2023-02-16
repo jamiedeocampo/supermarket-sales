@@ -75,4 +75,4 @@ Region
 
 State
 
-Let's have a look at the sales and profit in terms of states.
+
