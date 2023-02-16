@@ -67,3 +67,4 @@ Let's see which region, states, and cities generate more sales and profit and wh
 
 Region
 
+![sales_per_region.png](assets/images/sales_per_region.png)
