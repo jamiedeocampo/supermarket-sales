@@ -75,4 +75,8 @@ Region
 
 State
 
+![top_ten_sales.png](assets/images/top_ten_sales.png)
 
+<ul>
+  <li> California has the highest sales of $456 k, followed by New York ($311 k) and Texas ($170 k). </li>
+</ul>
