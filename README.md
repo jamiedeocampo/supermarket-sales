@@ -68,3 +68,11 @@ Let's see which region, states, and cities generate more sales and profit and wh
 Region
 
 ![sales_per_region.png](assets/images/sales_per_region.png)
+
+<ul>
+  <li> Highest sales is observed in the west region, followed by east, central, and south regions. </li>
+</ul>  
+
+State
+
+Let's have a look at the sales and profit in terms of states.
