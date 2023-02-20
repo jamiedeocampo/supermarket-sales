@@ -94,3 +94,9 @@ Let's look further how discounts compare among cities with the highest profits a
 
 ![loss_top_10_average_discount.png](assets/images/loss_top_10_average_discount.png)
 ![profit_top_10_average_discount.png](assets/images/profit_top_10_average_discount.png)
+
+# Summary and Conclusion
+
+1. Higher discount decreases profit
+
+Profits tend to go down with increasing discount. States where this is seen most are Texas, Illinois, Pennsylvania, and Ohio that offer discount up to 80%.  States with the highest profits such as California, New York, Washington, and Michigan have less than 10% discount on an average. To reduce losses, the store in these states can adjust their discounts and modify promotional strategies to attract more customers and hike up sales.
