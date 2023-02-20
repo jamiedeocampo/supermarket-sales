@@ -91,3 +91,6 @@ State
 A possible reason why Texas, despite having the third-highest sales produced the highest loss is that it gives higher discounts.
 
 Let's look further how discounts compare among cities with the highest profits and losses.
+
+![loss_top_10_average_discount.png](assets/images/loss_top_10_average_discount.png)
+![profit_top_10_average_discount.png](assets/images/profit_top_10_average_discount.png)
