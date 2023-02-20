@@ -80,3 +80,14 @@ State
 <ul>
   <li> California has the highest sales of $457k, followed by New York ($311k) and Texas ($170k). </li>
 </ul>
+
+![profit_top_10.png](assets/images/profit_top_10.png)
+![loss_ten_sales.png](assets/images/loss_top_10.png)
+<ul>
+  <li> California and New York are the most profitable states. This is ideal because they also have the highest sales. </li>
+  <li> Texas generates the highest loss, even though as we saw in the previous map, it has the third-highest sales. </li>
+</ul>
+
+A possible reason why Texas, despite having the third-highest sales produced the highest loss is that it gives higher discounts.
+
+Let's look further how discounts compare among cities with the highest profits and losses.
