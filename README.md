@@ -107,6 +107,7 @@ Now let's take a look at the store fares in cities.
   <li> The highest amount of loss is seen in Philadelphia followed by Houston. </li>
 </ul>
 
+
 # Summary and Conclusion
 
 ## Higher discount decreases profit
