@@ -104,7 +104,7 @@ Now let's take a look at the store fares in cities.
 
 <ul>
   <li> New York City generated the highest profits followed by Los Angeles. </li>
-  <li> The highest amount of loss is seen in Houston followed by Philadelphia. </li>
+  <li> The highest amount of loss is seen in Philadelphia followed by Houston. </li>
 </ul>
 
 # Summary and Conclusion
