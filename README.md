@@ -95,6 +95,18 @@ Let's look further how discounts compare among cities with the highest profits a
 ![loss_top_10_average_discount.png](assets/images/loss_top_10_average_discount.png)
 ![profit_top_10_average_discount.png](assets/images/profit_top_10_average_discount.png)
 
+City
+
+Now let's take a look at the store fares in cities.
+
+![profit_top_5_cities.png](assets/images/profit_top_5_cities.png)
+![loss_top_5_cities.png](assets/images/loss_top_5_cities.png)
+
+<ul>
+  <li> New York City generated the highest profits followed by Los Angeles. </li>
+  <li> The highest amount of loss is seen in Houston followed by Philadelphia. </li>
+</ul>
+
 # Summary and Conclusion
 
 ## Higher discount decreases profit
