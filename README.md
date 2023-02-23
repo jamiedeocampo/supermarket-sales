@@ -107,6 +107,37 @@ Now let's take a look at the store fares in cities.
   <li> The highest amount of loss is seen in Philadelphia followed by Houston. </li>
 </ul>
 
+While the visualizations help understand the correlation between discount and sales/profit, let's check its correlation coefficient to be sure.
+
+<code>
+
+install.packages("corrplot")
+install.packages("caret")
+install.packages("tidyverse")
+library(ggplot2)
+library(readr)
+library(corrplot) 
+library(caret)
+
+df<-read.csv("sample_superstore2.csv")
+
+cor_matrix<- cor(df[sapply(df,is.numeric)])
+
+corrplot(cor_matrix, na.label = " ",           
+               method = "number",          
+               col=colorRampPalette(c("red","skyblue","blue"))(100), 
+               tl.col = "black", 
+               tl.cex = 1)
+</code>
+
+Correlation Matrix 
+
+![r_viz1.png](assets/images/r_viz1.png)
+
+<ul>
+  <li> Discount has a negative correlation with sales (-0.03) and profit (-0.22).</li>
+  <li> Profit has a positive correlation with sales (0.48).</li>
+</ul>
 
 # Summary and Conclusion
 
