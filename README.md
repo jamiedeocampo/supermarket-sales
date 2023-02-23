@@ -109,8 +109,7 @@ Now let's take a look at the store fares in cities.
 
 While the visualizations help understand the correlation between discount and sales/profit, let's check its correlation coefficient to be sure.
 
-<code>
-install.packages("corrplot")
+<code>install.packages("corrplot")
 install.packages("caret")
 install.packages("tidyverse")
 library(ggplot2)
