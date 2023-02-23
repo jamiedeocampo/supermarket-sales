@@ -118,7 +118,9 @@ library(corrplot)
 library(caret)
 
 df<-read.csv("sample_superstore2.csv")
+              
 cor_matrix<- cor(df[sapply(df,is.numeric)])
+    
 corrplot(cor_matrix, na.label = " ",           
                method = "number",          
                col=colorRampPalette(c("red","skyblue","blue"))(100), 
